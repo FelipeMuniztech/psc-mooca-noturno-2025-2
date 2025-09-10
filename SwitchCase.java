@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-
+ 
 public class SwitchCase {
     public static void main(String[] args) {
         char operador = '+';
