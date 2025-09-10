@@ -1,6 +1,6 @@
 
 import javax.swing.JOptionPane;
-
+ 
 public class IfEncadeado {
     public static void main(String[] args) {
         double nota = Double.parseDouble(JOptionPane.showInputDialog("Digite a nota do aluno "));
